@@ -12,7 +12,7 @@ export default {
 
 <template>
   <!-- title -->
-  <AppTitle />
+  <Apptitle />
 </template>
 
 <style ></style>
